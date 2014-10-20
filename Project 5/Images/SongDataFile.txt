@@ -1,0 +1,26 @@
+Don McLean,American Pie,1971,Folk,0.png,1,10,American Pie,8:32
+Michael Jackson,Bad,1987,Rock,1.jpg,1,11,Bad,4:07
+MC Hammer,Please Hammer Don't Hurt 'Em,1990,Hip Hop,2.jpg,2,13,Can't Touch This,4:17
+Abba,Arrival,1976,Pop,3.jpg,2,10,Dancing Queen,3:51
+Moby,18,2002,Rock,4.jpg,9,18,Extreme Ways,3:58
+Chicago,Chicago VI,1973,Rock,5.jpg,10,10,Feelin' Stronger Every Day,4:14
+David Bowie,Station to Station,1976,Rock,6.jpg,2,6,Golden Years,3:30
+Kiss,Animalize,1984,Hard Rock,7.jpg,2,9,Heaven's On Fire,3:21
+Meat Loaf,Bat Out of Hell II:  Back into Hell,1993,Rock,8.jpg,1,11,I'd Do Anything For Love,7:52
+House of Pain,House of Pain,1992,Hip Hop,9.jpg,2,18,Jump Around,3:38
+Carl Douglas,Kung Fu Fighting and Other Great Love Songs,1974,Disco,10.jpg,1,2,Kung Fu Fighting,3:17
+Derek and the Dominos,Layla and Other Assorted Love Songs,1971,Blues Rock,11.jpg,13,14,Layla,5:36
+Bobby Pickett,The Original Monster Mash,1962,Holiday,12.jpg,1,16,Monster Mash,3:04
+Moody Blues,Days of Future Passed,1967,Pop,13.jpg,7,7,Nights In White Satin,4:24
+Yello,Stella,1985,SynthPop,14.jpg,3,11,Oh Yeah,3:01
+LMFAO,Sorry for Party Rocking,2011,Dance Pop,15.png,3,10,Party Rock Anthem,4:23
+Juice Newton,Juice,1981,Pop,16.jpg,4,10,Queen of Hearts,3:26
+Gary Glitter,Glitter,1972,Glam Rock,17.jpg,6,12,Rock and Rock Part 2,3:02
+Men Without Hats,Rhythm of Youth,1982,SynthPop,18.jpg,2,10,The Safety Dance,2:44
+Grateful Dead,In the Dark,1987,Rock,19.jpg,1,8,Touch of Grey,5:49
+5th Dimension,Up Up and Away,1967,Pop,20.jpg,1,14,Up Up and Away,2:41
+Til Tuesday,Voices Carry,1985,New Wave,21.jpg,5,11,Voices Carry,4:21
+Iron Maiden,Somewhere in Time,1986,Heavy Metal,22.jpg,2,8,Wasted Years,5:03
+Village People,Cruisin',1978,Disco,23.jpg,1,5,YMCA,4:48
+Tommy Tutone,Tommy Tutone 2,1981,Rock,24.jpg,1,11,867-5309,3:47
+Nena,Nena,1983,Pop Rock,25.jpg,6,12,99 Luftballons,3:51
