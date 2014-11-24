@@ -1,0 +1,12 @@
+Compile All the files first
+Ex: javac javac RMI/AddClient.java
+
+Generate Stubs and Skeleton
+rmic -v1.1 RMI.AddServerImpl
+
+Start RMIRegistry
+rmiregistry & 
+
+Run Client and Server
+java -cp ./ RMI.AddServer
+java -cp ./ RMI.AddClient
